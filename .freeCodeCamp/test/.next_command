@@ -201,3 +201,4 @@ ls --color=auto /
 ls --color=auto /bin
 man sum
 man sleep
+sleep 3
