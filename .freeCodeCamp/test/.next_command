@@ -189,3 +189,4 @@ help test
 help test
 help
 [[ -x countdown.sh ]]
+help [[
