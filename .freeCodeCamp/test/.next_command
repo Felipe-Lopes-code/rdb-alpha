@@ -257,3 +257,4 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 printenv
 echo $LANG
+declare -p
