@@ -308,3 +308,4 @@ help else
 help if
 ./bingo.sh
 ./bingo.sh
+touch fortune.sh
